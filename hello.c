@@ -5,8 +5,5 @@ int main(){
   ret = soma(2, 3);
   printf("O Rresultado é: %d", ret);
   return 0;
-
-Flamengooooo
-
 }
 
